@@ -1,0 +1,28 @@
+id: caca22819e0449d8b9a99b9e417c0f66
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  6f03e44df0824e9da4c5daa183b22270:
+    span:
+      start: 0
+      end: 7050
+    metadata: {}
+    page_info: null
+    imgnum: 62
+    reference: null
+  67f9dcfbb02d44539b569b6bdae55fb2:
+    span:
+      start: 7052
+      end: 7139
+    metadata: {}
+    page_info: null
+    imgnum: 63
+    reference: null
+  2a0516c405274150b6bd0a0f5a0814a1:
+    span:
+      start: 7141
+      end: 9614
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
